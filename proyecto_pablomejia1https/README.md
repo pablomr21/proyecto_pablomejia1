@@ -3,6 +3,7 @@
  tercer commit
 analisis
 venta de producto
+ descuento en inventario
 
 
  
